@@ -1,1 +1,2 @@
 Hellow world
+Esta linha foi modificad no arquivo master(conflito)
