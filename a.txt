@@ -1,2 +1,3 @@
 Hellow world
 Esta linha foi modificad no arquivo master(conflito)
+Esta linha foi modificada no ramo teste
